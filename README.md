@@ -1,14 +1,22 @@
 Hi 👋, I'm Gayatri Prabhu
 
-A passionate Web Developer & Computer engineer
+A passionate Web Developer & Data Engineering Enthusiast
 
-- 👨‍💻 I'm a frontend developer intern at Vyosim Techlab Pvt Ltd
-- 🎓 B.Tech CSE from Mumbai University
-- 💡 I’m sharpening my skills in HTML, CSS, JavaScript, and React
-- 🚀 Interested in building responsive & accessible web interfaces
+- 👨‍💻 I'm a web developer intern at Vyosim Techlab Pvt Ltd
+- 🎓 B.Tech Computer Engineer from Mumbai University
+- 💡 I’m sharpening my skills in HTML, CSS, JavaScript , and MERN Stack
+- 🚀 Interested in building responsive & accessible web interfaces 
 - 🧑‍💻 Open to collaborating on web development projects and learning new frontend frameworks
+-  Actively looking for roles in Data Engineering, Data Analysis, or Full-Stack Development.
 - 📫 Connect with me at [ gayatriprabhu10@gmail.com ]
 - 🎨 I love creating digital art and exploring UI/UX design
+
+  📊 **GitHub Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical)
+
 
   Languages and tools -
 
