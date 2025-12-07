@@ -61,9 +61,10 @@
 
 ## 🚀 What I'm Working On  
 
-- 📌 Learning PostgreSQL / MySQL  
-- 📌 Planning to build a **Personal Finance Tracker** soon  
-
+- 📌 Learning SQL & MySQL  
+- 💡 Planning to build a **Full-Stack E-Commerce Website**  
+- 💡 Planning a **Personal Finance Tracker** project soon
+  
 ---
 
 ## 🌟 Completed Projects  
