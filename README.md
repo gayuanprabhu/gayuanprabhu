@@ -1,44 +1,57 @@
-Hi 👋, I'm Gayatri Prabhu
+<h2 align="center">Hi 👋, I'm Gayatri Prabhu</h2>
+<p align="center">🚀 Aspiring Data Engineer | Full-Stack Developer | Problem Solver</p>
 
-A passionate Web Developer & Data Engineering Enthusiast
+---
 
-- 👨‍💻 I'm a web developer intern at Vyosim Techlab Pvt Ltd
-- 🎓 B.Tech Computer Engineer from Mumbai University
-- 💡 I’m sharpening my skills in HTML, CSS, JavaScript , and MERN Stack
-- 🚀 Interested in building responsive & accessible web interfaces 
-- 🧑‍💻 Open to collaborating on web development projects and learning new frontend frameworks
--  Actively looking for roles in Data Engineering, Data Analysis, or Full-Stack Development.
-- 📫 Connect with me at [ gayatriprabhu10@gmail.com ]
-- 🎨 I love creating digital art and exploring UI/UX design
+### 💡 About Me  
 
-  📊 **GitHub Stats**
+- 🎓 B.Tech in Computer Engineering, Mumbai University  
+- 💼 Frontend Developer Intern at Vyosim Techlab Pvt. Ltd  
+- 🌱 Currently learning: SQL | Excel | Power BI | Data Engineering fundamentals  
+- 🔍 Exploring Full-Stack and Data Engineering project ideas  
+- 🤝 Open to collaborations on AI bots, dashboards, automation, analytics, and web apps  
+- 🎨 I love UI/UX design, digital art, and building clean, intuitive interfaces  
+- 📩 Reach me at **gayatriprabhu10@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical)
+### 🛠️ Skills & Tools  
 
+#### Languages & Frameworks:
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Python` • `PHP` • `Java`  
 
-  Languages and tools -
+#### Tools & Technologies:
+`Bootstrap` • `VS Code` • `Android Studio` • `MySQL` • `MongoDB` • `GitHub` • `Figma` • `Ubuntu`  
 
- 	![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
-</div>
+---
+
+### 🚀 What I'm Working On  
+
+- 📌 **Personal Finance Tracker** — Login auth, Dark mode, Balance tracking, Transactions  
+- 🤖 **Mira AI Chatbot** — MERN app with custom API + MongoDB backend  
+- 🧾 **Billing Software** — Python Tkinter application  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🌍 Connect With Me  
+
+💼 LinkedIn: https://www.linkedin.com/in/gayatri-p-b54551376  
+📧 Email: **gayatriprabhu10@gmail.com**  
+
+⭐ Feel free to explore my repositories and drop a ⭐ if you like my work!
+
+---
+
+> _“Learning every day — one commit at a time.”_
