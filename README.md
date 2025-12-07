@@ -70,11 +70,12 @@
 
 🔹 **Mira AI Chatbot**  
 MERN-based chatbot powered by custom API & MongoDB.  
-📌 *Source code*
+📌 *Source code available in repository*
 
 🔹 **Billing Software**  
 Standalone Python Tkinter billing app for retail stores.  
-📌 *Source code*
+📌 *Source code available in repository*
+
 ---
 
 ## 🌍 Connect With Me  
