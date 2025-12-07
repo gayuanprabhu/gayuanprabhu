@@ -11,21 +11,26 @@
 
 ---
 
-## ✨ About Me  
+## <p align="center">✨ About Me</p>
 
-- 🎓 B.Tech in Computer Engineering, Mumbai University  
-- 👩‍💻 Web Developer Intern at Vyosim Techlab Pvt. Ltd  
-- 🌱 Learning SQL, Excel, Power BI & Data Engineering fundamentals  
-- 💡 Exploring full-stack development & analytics project ideas  
-- 🤝 Open to collaborations on dashboards, automation, analytics, and web apps  
-- 🎨 Passionate about UI/UX design, digital art, and clean interface building  
-- 📩 Reach me at **gayatriprabhu10@gmail.com**
+<p align="center">
+🎓 B.Tech in Computer Engineering, Mumbai University <br>
+👩‍💻 Web Developer Intern at Vyosim Techlab Pvt. Ltd <br>
+🌱 Learning SQL, Excel, Power BI & Data Engineering fundamentals <br>
+💡 Exploring full-stack development & analytics project ideas <br>
+🤝 Open to collaborations on dashboards, automation, analytics, and web apps <br>
+🎨 Passionate about UI/UX design, digital art, and clean interface building <br>
+📩 Reach me at <b>gayatriprabhu10@gmail.com</b>
+</p>
 
 ---
 
-## 🛠 Skills & Tools  
+## <p align="center">🛠 Skills & Tools</p>
 
-### 💻 Languages I Know
+### <p align="center">💻 Languages I Know</p>
+
+<p align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,59 +40,72 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+</p>
 
 ---
 
-### 🔧 Tools & Technologies  
+### <p align="center">🔧 Tools & Technologies</p>
 
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android" title="Android"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" title="VS Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" title="Arduino"/></code>
-</div>
-
----
-
-
-## 🚀 What I'm Working On  
-
-- 📌 Learning SQL & MySQL  
-- 💡 Planning to build a **Full-Stack E-Commerce Website**  
-- 💡 Planning a **Personal Finance Tracker** project soon
-  
----
-
-## 🌟 Completed Projects  
-
-🔹 **Mira AI Chatbot**  
-MERN-based chatbot powered by custom API & MongoDB.  
-📌 *Source code available in repository*
-
-🔹 **Billing Software**  
-Standalone Python Tkinter billing app for retail stores.  
-📌 *Source code available in repository*
+<p align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" alt="Android"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino"/></code>
+</p>
 
 ---
 
-## 🌍 Connect With Me  
+## <p align="center">🚀 What I'm Working On</p>
+
+<p align="center">
+📌 Learning SQL & MySQL <br>
+📌 Planning to build a Full-Stack E-Commerce Website <br>
+📌 Planning a Personal Finance Tracker project soon
+</p>
+
+---
+
+## <p align="center">🌟 Completed Projects</p>
+
+<p align="center">
+
+✨ <b>Mira AI Chatbot</b> – MERN-based chatbot app using custom API & MongoDB.<br>
+📌 Source code available in repository. <br><br>
+
+✨ <b>Billing Software</b> – Standalone Python Tkinter billing app for retail businesses.<br>
+📌 Source code available in repository.
+
+</p>
+
+---
+
+## <p align="center">🌍 Connect With Me</p>
+
+<p align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gayuanprabhu&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayatri-p-b54551376)
+<br>
+<a href="https://www.linkedin.com/in/gayatri-p-b54551376">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
 
-📧 **Email:** gayatriprabhu10@gmail.com  
-
+<br><br>
+📧 <b>Email:</b> gayatriprabhu10@gmail.com  
+<br><br>
 ⭐ Feel free to explore my repositories and drop a star if you like my work!
+
+</p>
 
 ---
 
 <p align="center"><i>“Learning every day — one commit at a time.”</i></p>
-
