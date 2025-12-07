@@ -35,13 +35,17 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+🔗 View Full Stats  
+https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical)
+
+🔗 Explore Language Breakdown  
+https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical
 
 ---
 
