@@ -33,21 +33,19 @@
 
 ---
 
-### 📊 GitHub Stats  
+🌟 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical)
+🔹 Mira AI Chatbot
+A MERN-based chatbot powered by custom API and MongoDB.
+📌 Source code in repository
 
-🔗 View Full Stats  
-https://github-readme-stats.vercel.app/api?username=gayuanprabhu&show_icons=true&theme=radical
+🔹 Personal Finance Tracker
+React application with login, dark mode, and balance tracking.
+📌 Source code in repository
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical)
-
-🔗 Explore Language Breakdown  
-https://github-readme-stats.vercel.app/api/top-langs/?username=gayuanprabhu&layout=compact&theme=radical
-
----
+🔹 Billing Software
+Standalone Python Tkinter desktop application for small retail stores.
+📌 Source code in repository
 
 ### 🌍 Connect With Me  
 
