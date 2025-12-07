@@ -58,28 +58,23 @@
 
 ---
 
+
 ## 🚀 What I'm Working On  
 
-- 💰 **Personal Finance Tracker** — Login auth, dark mode, balance tracking  
-- 🤖 **Mira AI Chatbot** — MERN app using custom API & MongoDB backend  
-- 🧾 **Billing Software** — Python Tkinter desktop application  
+- 📌 Learning PostgreSQL / MySQL  
+- 📌 Planning to build a **Personal Finance Tracker** soon  
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Completed Projects  
 
 🔹 **Mira AI Chatbot**  
 MERN-based chatbot powered by custom API & MongoDB.  
-📌 *Source code available in repository*
-
-🔹 **Personal Finance Tracker**  
-React application with login authentication, dark mode & transaction logic.  
-📌 *Source code available in repository*
+📌 *Source code*
 
 🔹 **Billing Software**  
 Standalone Python Tkinter billing app for retail stores.  
-📌 *Source code available in repository*
-
+📌 *Source code*
 ---
 
 ## 🌍 Connect With Me  
