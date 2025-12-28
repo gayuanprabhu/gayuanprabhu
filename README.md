@@ -15,7 +15,7 @@
 
 🎓 B.Tech in Computer Engineering, Mumbai University  
 👩‍💻 Web Developer Intern at Vyosim Techlab Pvt. Ltd  
-🌱 Learning SQL, Excel, Power BI & Data Engineering fundamentals  
+🌱 Learning API, SQL, Excel & Data Engineering fundamentals  
 💡 Exploring full-stack development & analytics project ideas  
 🤝 Open to collaborations on dashboards, automation, analytics, and web apps  
 🎨 Passionate about UI/UX design, digital art, and clean interface building  
