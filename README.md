@@ -53,7 +53,7 @@ Postman • Git • GitHub • Basic ETL Concepts • Clean Code Practices
 **Programming Languages**  
 JavaScript • Python (basic)
 
-### 💻 Languages I Know  
+### 💻 Programming Languages (Academic + Learning)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -68,7 +68,7 @@ JavaScript • Python (basic)
 
 ---
 
-### 🔧 Tools & Technologies  
+### 🔧 Tools & Technologies (Academic + Learning)
 
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" /></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" /></code>
