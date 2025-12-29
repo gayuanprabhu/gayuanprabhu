@@ -11,15 +11,12 @@
 
 ---
 
-## ✨ About Me  
-
-🎓 B.Tech in Computer Engineering, Mumbai University  
-👩‍💻 Web Developer Intern at Vyosim Techlab Pvt. Ltd  
-🌱 Learning API, SQL, Excel & Data Engineering fundamentals  
-💡 Exploring full-stack development & analytics project ideas  
-🤝 Open to collaborations on dashboards, automation, analytics, and web apps  
-🎨 Passionate about UI/UX design, digital art, and clean interface building  
-📩 Reach me at **gayatriprabhu10@gmail.com**
+## 👩‍💻 About Me
+🎓 B.Tech in Computer Engineering — University of Mumbai  
+💼 Completed Web Developer Internship at Vyosim Techlab  
+🔧 Backend-focused developer with hands-on experience in API development and data handling  
+🌱 Continuously learning backend systems, databases, and integration workflows  
+📫 Reach me at: <b>gayatriprabhu10@gmail.com</b>
 
 ---
 
