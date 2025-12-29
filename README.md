@@ -20,7 +20,38 @@
 
 ---
 
+## 🚀 What I'm Working On
+- Strengthening backend fundamentals with Node.js and SQL  
+- Building clean REST APIs and backend-focused projects  
+- Improving database design and data validation skills  
+
+---
+
+## ✅ Completed Projects
+- **Mira AI Chat Assistant**  
+  MERN-based chatbot with custom backend APIs and MongoDB integration  
+
+- **Enterprise Ops Management API**  
+  Backend REST API designed for internal organizational workflows  
+
+- **NH66 Coastal Mart – Billing System**  
+  Python-based desktop billing application for small retail businesses  
+
+---
+
 ## 🛠 Skills & Tools  
+
+**Backend Development**  
+Node.js • Express.js • REST APIs • JSON • API Integration  
+
+**Databases**  
+SQL • MongoDB  
+
+**Tools & Practices**  
+Postman • Git • GitHub • Basic ETL Concepts • Clean Code Practices  
+
+**Programming Languages**  
+JavaScript • Python (basic)
 
 ### 💻 Languages I Know  
 
@@ -54,23 +85,6 @@
 
 ---
 
-## 🚀 What I'm Working On  
-
-📌 Learning SQL & MySQL  
-📌 Planning to build a Full-Stack E-Commerce Website  
-📌 Planning a Personal Finance Tracker project soon  
-
----
-
-## 🌟 Completed Projects  
-
-✨ <b>Mira AI Chatbot</b> – MERN-based chatbot using custom API & MongoDB  
-📌 Source code available  
-
-✨ <b>Billing Software</b> – Python Tkinter billing app for retail businesses  
-📌 Source code available  
-
----
 
 ## 🌍 Connect With Me  
 
@@ -80,7 +94,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 <br><br>
-📧 Email: **gayatriprabhu10@gmail.com**
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/gayatri-p-b54551376  
+- GitHub: https://github.com/gayuanprabhu  
+- Email: gayatriprabhu10@gmail.com  
+
 <br><br>
 
 ⭐ Feel free to explore my repositories and drop a star if you like my work!
