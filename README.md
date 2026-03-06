@@ -4,7 +4,7 @@
 <h1>Hey there 👋, I'm <span style="color:#ff6f91;">Gayatri Prabhu</span></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Junior+Backend+Developer;Node.js+%7C+REST+APIs;SQL+%7C+MongoDB" alt="Typing SVG" />
   </a>
 </p>
