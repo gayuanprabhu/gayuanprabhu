@@ -66,7 +66,7 @@ Python desktop billing application featuring invoice generation, GST calculation
 - MySQL
 - MongoDB
 
-### ⚙️ Backend Development
+### ⚙️ Development
 
 - Node.js
 - Express.js
